@@ -1,5 +1,5 @@
 To run this project, please go through the following steps: <br>
-1. Download and unzip 21111033 21111063.zip in your local machine.<br>
+1. Download and unzip the project in your local machine.<br>
 2. Open Jupyter Notebook and open code.ipynb in it.<br>
 3. Goto Menu Bar and click on Cell and then Run All<br>
 4. Go to link https://www.wokwi.com and register your account.<br>
